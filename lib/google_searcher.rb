@@ -7,7 +7,7 @@ def check_if_user_gave_input
 end
 
 def get_search
-  return search = ARGV unless check_if_user_gave_input 
+  return searches = ARGV unless check_if_user_gave_input 
 end
 
 def do_search(searches)
