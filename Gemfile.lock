@@ -44,6 +44,7 @@ DEPENDENCIES
   nokogiri (>= 1.6.7.rc)
   pry
   rspec
+  selenium-webdriver
   watir
 
 RUBY VERSION

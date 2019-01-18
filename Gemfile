@@ -5,3 +5,4 @@ gem 'pry'
 gem 'dotenv'
 gem "nokogiri", ">= 1.6.7.rc"
 gem 'watir'
+gem 'selenium-webdriver'
